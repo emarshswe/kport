@@ -1,6 +1,11 @@
+#Pdf handling
 http://stackoverflow.com/questions/25665/python-module-for-converting-pdf-to-text
 
-
+#optical character recognition
 https://pypi.python.org/pypi/tesserocr
 
+#Pure python search index
+https://pypi.python.org/pypi/Whoosh/
 
+#Apache Lucene based search "Solr"
+http://lucene.apache.org/solr/
